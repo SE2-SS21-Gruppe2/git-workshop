@@ -9,4 +9,4 @@ Softwareprojekte wären ohne git undenkbar. Übrigens: git wurde von Linus Torva
 Weitere bekannte Plattformen sind Bitbucket oder GitLab.
 
 LG,
-Andy
+Andy K.
