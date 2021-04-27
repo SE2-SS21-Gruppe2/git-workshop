@@ -1,0 +1,8 @@
+Git ist ein mächtiges Tool das jede Art von Textdateien versionieren kann.
+
+Anders als SVN ist es bis zu einem gewissen Teil dezentral organisiert.
+
+[PLACEHOLDER]
+
+Dezentrale Organisation bringt natürlich Vor- und Nachteile mit sich.
+
