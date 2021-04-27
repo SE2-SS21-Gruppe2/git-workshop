@@ -5,4 +5,5 @@ Anders als SVN ist es bis zu einem gewissen Teil dezentral organisiert.
 [PLACEHOLDER]
 
 Dezentrale Organisation bringt natürlich Vor- und Nachteile mit sich.
+Softwareprojekte wären ohne git undenkbar. Übrigens: git wurde von Linus Torvalds, dem Entwickler von Linux entwickelt. Um kollaboratives Arbeiten noch effizienter zu gestalten haben sich mit der Zeit Plattformen für Remote-Repositories gebildet. Eine davon ist GitHub.
 
